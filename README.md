@@ -1,6 +1,6 @@
 # Quran Semantic Search Model
 
-On-device, meaning-based ayah search for the [Quran - Furqan app](https://furqan.app): users can describe what they're looking for ("ayahs talking about the sea", "patience in hardship", "دو سمندر") in any of the app's languages and find matching ayahs offline.
+On-device, meaning-based ayah search for the [Quran - Furqan app](https://furqan.app): users can describe what they're looking for ("ayahs talking about the sea", "patience in hardship", "دو سمندر") in English, Arabic or other languages such as Urdu, Turkish or Chinese, and find matching ayahs offline.
 
 ## Download
 
